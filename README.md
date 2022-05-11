@@ -1,3 +1,3 @@
-# encryption-decryption-triple-des-angular-tldr5y
+# encryption-angular-lamlt
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/encryption-angular)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/encryption-angular-lamlt)
